@@ -4,7 +4,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-Whisper-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Projeto desenvolvido como parte do **Bootcamp CAIXA - IA Generativa** da [DIO](https://www.dio.me), combinando tecnologias de **Speech-to-Text** e **Text-to-Speech** para criar uma solução de comunicação por voz com IA.
+Projeto desenvolvido como parte do **Bootcamp Bradesco - GenAI & Dados** da [DIO](https://www.dio.me), combinando tecnologias de **Speech-to-Text** e **Text-to-Speech** para criar uma solução de comunicação por voz com IA.
 
 ## 💡 Sobre o Projeto
 
@@ -61,7 +61,7 @@ sudo apt install ffmpeg
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/celloweb-ai/chatgpt-voice-conversation.git
+git clone https://github.com/celloweb-ai/Chatgpt_Voice_Conversation.git
 cd chatgpt-voice-conversation
 ```
 
@@ -182,7 +182,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👤 Autor
 
-**Desenvolvido como parte do Bootcamp CAIXA - IA Generativa da DIO**
+**Desenvolvido como parte do Bootcamp Bradesco - GenAI & Dados**
 
 - GitHub: [@celloweb-ai](https://github.com/celloweb-ai)
 
@@ -198,5 +198,5 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 ---
 
 <p align="center">
-  Feito com ❤️ para o Bootcamp DIO CAIXA - IA Generativa
+  Feito com ❤️ para o Bootcamp DIO Bradesco - GenAI & Dados
 </p>
